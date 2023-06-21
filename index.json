@@ -3,6 +3,192 @@
    "author":"NekoSuneVR",
    "url":"https://vrc-vpm-packages.nekosunevr.co.uk/index.json",
    "packages":{
+      "com.furality.sylvashader":{
+         "versions":{
+            "1.3.3":{
+               "name":"com.furality.sylvashader",
+               "displayName":"Furality Sylva Shader",
+               "version":"1.3.3",
+               "unity":"2019.4",
+               "description":"Furality Sylva Avatar Shader for VRChat. Created by Naito @ Furality, Inc.",
+               "vpmDependencies":{
+                  "com.llealloo.audiolink":"0.3.2"
+               },
+               "author":{
+                  "name":"Furality, Inc.",
+                  "email":"help@furality.org",
+                  "url":"https://furality.org"
+               },
+               "hideInEditor":false,
+               "license":"Furality, Inc. Asset License",
+               "zipSHA256":"0ac2deae3293820abe814808b06aaf2784f3873b3b4863c417f55d889e99cf2a",
+               "url":"https://github.com/furality/vcc-furality-sylva-shader/releases/download/1.3.3/com.furality.sylvashader-1.3.3.zip",
+               "legacyFolders":{
+                  
+               },
+               "legacyFiles":{
+                  
+               },
+               "localPath":"Packages\\com.furality.sylvashader"
+            },
+            "1.3.2":{
+               "name":"com.furality.sylvashader",
+               "displayName":"Furality Sylva Shader",
+               "version":"1.3.2",
+               "unity":"2019.4",
+               "description":"Furality Sylva Avatar Shader for VRChat. Created by Naito @ Furality, Inc.",
+               "vpmDependencies":{
+                  "com.llealloo.audiolink":"0.3.2"
+               },
+               "author":{
+                  "name":"Furality, Inc.",
+                  "email":"help@furality.org",
+                  "url":"https://furality.org"
+               },
+               "hideInEditor":false,
+               "license":"Furality, Inc. Asset License",
+               "zipSHA256":"33ba3b2c4626ec11541a4dd513cab33a40d2fbea72c2a757cebc5785546ce8b3",
+               "url":"https://github.com/furality/vcc-furality-sylva-shader/releases/download/1.3.2/com.furality.sylvashader-1.3.2.zip",
+               "legacyFolders":{
+                  
+               },
+               "legacyFiles":{
+                  
+               },
+               "localPath":"Packages\\com.furality.sylvashader"
+            },
+            "1.3.1":{
+               "name":"com.furality.sylvashader",
+               "displayName":"Furality Sylva Shader",
+               "version":"1.3.1",
+               "unity":"2019.4",
+               "description":"Furality Sylva Avatar Shader for VRChat. Created by Naito @ Furality, Inc.",
+               "vpmDependencies":{
+                  "com.llealloo.audiolink":"0.3.2"
+               },
+               "author":{
+                  "name":"Furality, Inc.",
+                  "email":"help@furality.org",
+                  "url":"https://furality.org"
+               },
+               "hideInEditor":false,
+               "license":"Furality, Inc. Asset License",
+               "zipSHA256":"5e6f870b99040b8cb6f122b3f18bb23a8aab759a3e0b48da099417958ceab406",
+               "url":"https://github.com/furality/vcc-furality-sylva-shader/releases/download/1.3.1/com.furality.sylvashader-1.3.1.zip",
+               "legacyFolders":{
+                  
+               },
+               "legacyFiles":{
+                  
+               },
+               "localPath":"Packages\\com.furality.sylvashader"
+            },
+            "1.3.0":{
+               "name":"com.furality.sylvashader",
+               "displayName":"Furality Sylva Shader",
+               "version":"1.3.0",
+               "unity":"2019.4",
+               "description":"Furality Sylva Avatar Shader for VRChat. Created by Naito @ Furality, Inc.",
+               "vpmDependencies":{
+                  "com.llealloo.audiolink":"0.3.2"
+               },
+               "author":{
+                  "name":"Furality, Inc.",
+                  "email":"help@furality.org",
+                  "url":"https://furality.org"
+               },
+               "hideInEditor":false,
+               "license":"Furality, Inc. Asset License",
+               "zipSHA256":"74aaf5a35be891631f50836d9e19c2beb80f0082f146655132cdcae3ba116e81",
+               "url":"https://github.com/furality/vcc-furality-sylva-shader/releases/download/1.3.0/com.furality.sylvashader-1.3.0.zip",
+               "legacyFolders":{
+                  
+               },
+               "legacyFiles":{
+                  
+               },
+               "localPath":"Packages\\com.furality.sylvashader"
+            },
+            "1.2.0":{
+               "name":"com.furality.sylvashader",
+               "displayName":"Furality Sylva Shader",
+               "version":"1.2.0",
+               "unity":"2019.4",
+               "description":"Furality Sylva Avatar Shader for VRChat. Created by Naito @ Furality, Inc.",
+               "vpmDependencies":{
+                  "com.llealloo.audiolink":"0.3.2"
+               },
+               "author":{
+                  "name":"Furality, Inc.",
+                  "email":"help@furality.org",
+                  "url":"https://furality.org"
+               },
+               "hideInEditor":false,
+               "license":"Furality, Inc. Asset License",
+               "zipSHA256":"9573b7c553a7bd768f058155dc3fc964f2b390a2461dd3b3d1b240086484a90f",
+               "url":"https://github.com/furality/vcc-furality-sylva-shader/releases/download/1.2.0/com.furality.sylvashader-1.2.0.zip",
+               "legacyFolders":{
+                  
+               },
+               "legacyFiles":{
+                  
+               },
+               "localPath":"Packages\\com.furality.sylvashader"
+            },
+            "1.1.0":{
+               "name":"com.furality.sylvashader",
+               "displayName":"Furality Sylva Shader",
+               "version":"1.1.0",
+               "unity":"2019.4",
+               "description":"Furality Sylva Avatar Shader for VRChat.\nCreated by Naito @ Furality, Inc.",
+               "vpmDependencies":{
+                  "com.llealloo.audiolink":"0.3.2"
+               },
+               "author":{
+                  "name":"Furality, Inc.",
+                  "email":"help@furality.org",
+                  "url":"https://furality.org"
+               },
+               "hideInEditor":false,
+               "license":"Furality, Inc. Asset License",
+               "zipSHA256":"9a1a91ba6b19e7b91d0a72a4e464811bf2adf7f0c9413d6d2a45a6a40240b1cb",
+               "url":"https://github.com/furality/vcc-furality-sylva-shader/releases/download/1.1.0/com.furality.sylvashader-1.1.0.zip",
+               "legacyFolders":{
+                  
+               },
+               "legacyFiles":{
+                  
+               },
+               "localPath":"Packages\\com.furality.sylvashader"
+            },
+            "1.0.0":{
+               "name":"com.furality.sylvashader",
+               "displayName":"Furality Sylva Shader",
+               "version":"1.0.0",
+               "unity":"2019.4",
+               "description":"Furality Sylva Avatar Shader for VRChat.\nCreated by Naito @ Furality, Inc.",
+               "vpmDependencies":{
+                  "com.llealloo.audiolink":"0.3.2"
+               },
+               "author":{
+                  "name":"Furality, Inc.",
+                  "email":"help@furality.org",
+                  "url":"https://furality.org"
+               },
+               "hideInEditor":false,
+               "license":"Furality, Inc. Asset License",
+               "zipSHA256":"f14080a5c77b2404765a43fdad8f2b96e6e84ef405176fce693334b9dcdf709a",
+               "url":"https://github.com/furality/vcc-furality-sylva-shader/releases/download/1.0.0/com.furality.sylvashader-1.0.0.zip",
+               "legacyFolders":{
+                  
+               },
+               "legacyFiles":{
+                  
+               },
+               "localPath":"Packages\\com.furality.sylvashader"
+            }
+         }
+      },
       "sh.orels.camerablocker":{
          "versions":{
             "1.0.0":{
