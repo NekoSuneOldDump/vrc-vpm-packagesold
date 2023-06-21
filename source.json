@@ -12,8 +12,5 @@
         "url": "https://github.com/NekoSuneVR/vrc-vpm-packages.nekosunevr.co.uk",
         "text": "Go to Repositories"
     },
-    "bannerUrl": "banner.png",
-    "githubRepos":[
-        "NekoSuneVR/vrc-vpm-packages.nekosunevr.co.uk"
-    ]
+    "bannerUrl": "banner.png"
 }
