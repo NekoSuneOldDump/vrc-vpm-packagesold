@@ -1,27 +1,55 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+    "name": "Public Assets",
+    "id": "co.uk.nekosunevr.listing",
+    "url": "http://vrc-vpm-packages.nekosunevr.co.uk/index.json",
+    "author": {
+        "email": "Need help? Click to join my discord server.",
+        "name": "NekoSuneVR",
+        "url": "https://discord.gg/w8ddMqjfJ2"
     },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+    "description": "Listing for all publicly distributed assets.",
+    "infoLink": {
+        "url": "https://github.com/NekoSuneVR/vrc-vpm-packages.nekosunevr.co.uk",
+        "text": "Go to Repositories"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
+    "bannerUrl": "",
+    "packages": [
         {
-            "name":"com.vrchat.udonsharp",
+            "name": "dev.architech.sdk",
+            "releases": [
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.1/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.7.0/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.6.0/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.5.0/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.9/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.8/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.7/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.6/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.5/downloads/package",
+                "https://gitlab.com/techanon/architech-sdk/-/releases/v0.4.4+public/downloads/package"
+            ]
+        },
+        {
+            "name": "dev.architech.protv",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.13/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.12/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.12/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.11.2/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.11.1/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.11/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.10/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.9.1/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.9/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.8/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.7/downloads/package",
+                "https://gitlab.com/techanon/protv/-/releases/v3.0.0-alpha.6/downloads/package"
+            ]
+        },
+        {
+            "name": "dev.architech.umbrella",
+            "releases": [
+                "https://gitlab.com/techanon/architech-umbrella/-/releases/v0.3.0/downloads/package"
             ]
         }
     ]
