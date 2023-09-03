@@ -1,9 +1,11 @@
-defaults:
+index:
   - scope:
       path: "/index.json"
     values:
       permalink: "http://redirect.nekosunevr.co.uk:7300/index.json"
+source:
   - scope:
       path: "/source.json"
     values:
       permalink: "http://redirect.nekosunevr.co.uk:7300/source.json"
+
