@@ -1,1 +1,7 @@
-{}
+{
+  "name": "Public Assets",
+  "author": "NekoSuneVR",
+  "url": "https://vrc-vpm-packages.nekosunevr.co.uk/index.json",
+  "id": "co.uk.nekosunevr.listing",
+  "packages": {}
+}
